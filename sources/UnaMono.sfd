@@ -1,11 +1,11 @@
 SplineFontDB: 3.2
-FontName: Untitled1
-FullName: Untitled1
-FamilyName: Untitled1
+FontName: UnaMono-Regular
+FullName: Una Mono Regular
+FamilyName: Una Mono
 Weight: Regular
-Copyright: Copyright (c) 2021, Una Ada
+Copyright: This work (Una Mono by Una Ada) is free of known copyright restrictions.
 UComments: "2021-5-31: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 2021.05.31
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1622498915
-ModificationTime: 1622504090
+ModificationTime: 1622504873
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 16
+WinInfo: 0 32 14
 BeginPrivate: 2
 BlueValues 23 [-15 2 498 504 703 707]
 BlueScale 8 0.039625
