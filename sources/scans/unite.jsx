@@ -1,11 +1,11 @@
 /**
- *	Unite objects on all layers
+ *  Unite objects on all layers
  *  Original by zertle on Adobe Support Community
  *  August 8, 2016
  *  Updated by Una Ada <una@anarchy.website>
  *  May 31, 2021
  * 
- * 	https://community.adobe.com/t5/illustrator/pathfinder-unite-all-objects-on-each-layer/m-p/8505153#M216666
+ *  https://community.adobe.com/t5/illustrator/pathfinder-unite-all-objects-on-each-layer/m-p/8505153#M216666
  */
 
 function UniteAllLayers() {
