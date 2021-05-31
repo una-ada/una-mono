@@ -5,9 +5,9 @@ A monospace font to pair with Una Script
 
 - [ ] Create "Una Mono"
 	- [x] Design EM-square template
-	- [ ] Draw glyph designs
-	- [ ] Scan designs
-	- [ ] Vectorize glyphs
+	- [x] Draw glyph designs
+	- [x] Scan designs
+	- [x] Vectorize glyphs
 	- [ ] Expand and resize vectors
 	- [ ] Import vectors to FontForge
 	- [ ] Fix vector path errors
