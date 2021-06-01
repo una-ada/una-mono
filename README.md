@@ -3,19 +3,6 @@ A monospace font to pair with Una Script
 
 ## TODO
 
-- [ ] Create "Una Mono"
-	- [x] Design EM-square template
-	- [x] Draw glyph designs
-	- [x] Scan designs
-	- [x] Vectorize glyphs
-	- [ ] Expand and resize vectors
-	- [ ] Import vectors to FontForge
-	- [ ] Fix vector path errors
-	- [ ] Adjust metrics <br/>
-		&rarr; No kerning with monospace?
-	- [ ] Design sample image
-	- [ ] Publish blog and distribute
-	- [ ] Add to [una-ada.github.io](https://una-ada.github.io)
 - [ ] Write specimen page
 	- [ ] Landing section
 	- [ ] Full description
